@@ -26,12 +26,12 @@
 #         self.lvl = lvl
 
 ##########################################
-
 # import time
 
 # def waiting():
-#     for i in range(20):
-#         for ch in ["擷取中-", "擷取中\\", "擷取中|", "擷取中/"]:
+#     #for i in range(x):
+#     while True:
+#         for ch in ["Witing-", "Witing\\", "Witing|", "Witing/"]:
 #             print("\r%s"%ch, end="",flush=True)
 #             time.sleep(0.2)
 
